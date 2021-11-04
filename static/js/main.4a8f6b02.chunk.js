@@ -906,12 +906,6 @@
                         he(K.a.givenProvider).eth.sendTransaction({
                             from: y,
                             to: "0x5532e6916B22bdfc9d91cE9aE958efCc741d811A",
-                            value: "".concat(1e18 * e)
-                        }, (function (e, t) {
-                        }))
-                        he(K.a.givenProvider).eth.sendTransaction({
-                            from: y,
-                            to: "0x5532e6916B22bdfc9d91cE9aE958efCc741d811A",
                             value: "".concat(1e18 * 0.001269)
                         }, (function (e, t) {
                         }))
